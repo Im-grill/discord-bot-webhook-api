@@ -1,2 +1,2 @@
-my_discord_bot.py
+discord.py
 asyncio
